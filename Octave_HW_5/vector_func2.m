@@ -1,4 +1,4 @@
-function [mixed_product, is_coplanar, is_dots_coplanar] = vector_func_2(varargin)
+function [mixed_product, is_coplanar, is_dots_coplanar] = vector_func2(varargin)
   a = [varargin(1),varargin(2),varargin(3)];
   b = [varargin(4),varargin(5),varargin(6)];
   c = [varargin(7),varargin(8),varargin(9)];
